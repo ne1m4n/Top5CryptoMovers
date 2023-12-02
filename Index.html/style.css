@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: indigo;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#topGainer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+    border-radius: 4px;
+}
+
+#cryptoTitle {
+    font-size: 24px;
+    color: indigo;
+    text-align: center;
+    justify-items: center;
+}
